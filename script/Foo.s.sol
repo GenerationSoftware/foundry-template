@@ -6,11 +6,11 @@ import { Foo } from "../src/Foo.sol";
 
 /// @dev See the Solidity Scripting tutorial: https://book.getfoundry.sh/tutorials/solidity-scripting
 contract FooScript is Script {
-  Foo internal foo;
+    Foo internal foo;
 
-  function run() public {
-    vm.startBroadcast();
-    foo = new Foo();
-    vm.stopBroadcast();
-  }
+    function run() public {
+        vm.startBroadcast();
+        foo = new Foo();
+        vm.stopBroadcast();
+    }
 }
