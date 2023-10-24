@@ -4,10 +4,10 @@
     {
       "files": "*.sol",
       "options": {
-        "compiler": "0.8.19", 
+        "compiler": "0.8.21",
         "bracketSpacing": true,
-        "printWidth": 100,
-        "tabWidth": 2
+        "printWidth": 120,
+        "tabWidth": 4
       }
     }
   ]
