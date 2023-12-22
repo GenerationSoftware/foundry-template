@@ -4,12 +4,12 @@ Template to kickstart a Foundry project.
 
 ## Getting started
 
-The easiest way to get started is by clicking the [Use this template](https://github.com/pooltogether/foundry-template/generate) button at the top right of this page.
+The easiest way to get started is by clicking the [Use this template](https://github.com/GenerationSoftware/foundry-template/generate) button at the top right of this page.
 
 If you prefer to go the CLI way:
 
 ```
-forge init my-project --template https://github.com/pooltogether/foundry-template
+forge init my-project --template https://github.com/GenerationSoftware/foundry-template
 ```
 
 ## Development
