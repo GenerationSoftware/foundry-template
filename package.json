@@ -1,14 +1,14 @@
 {
-  "name": "@pooltogether/foundry-template",
+  "name": "@generationsoftware/foundry-template",
   "version": "1.0.0",
   "description": "Template to kickstart a Foundry project",
   "author": {
-    "name": "PoolTogether Inc.",
-    "url": "https://github.com/pooltogether"
+    "name": "G9 Software Inc.",
+    "url": "https://github.com/GenerationSoftware"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooltogether/foundry-template.git"
+    "url": "git+https://github.com/GenerationSoftware/foundry-template.git"
   },
   "scripts": {
     "clean": "forge clean",
